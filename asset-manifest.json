@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/snowveiledviolets/LifelikeCellularAutomata/static/css/main.6d6d6b49.css",
-    "main.js": "/snowveiledviolets/LifelikeCellularAutomata/static/js/main.58ba2317.js",
-    "static/media/gliderGif.gif": "/snowveiledviolets/LifelikeCellularAutomata/static/media/gliderGif.e2e95db49deee1f198e9.gif",
-    "index.html": "/snowveiledviolets/LifelikeCellularAutomata/index.html",
-    "main.6d6d6b49.css.map": "/snowveiledviolets/LifelikeCellularAutomata/static/css/main.6d6d6b49.css.map",
-    "main.58ba2317.js.map": "/snowveiledviolets/LifelikeCellularAutomata/static/js/main.58ba2317.js.map"
+    "main.css": "/LifelikeCellularAutomata/static/css/main.6d6d6b49.css",
+    "main.js": "/LifelikeCellularAutomata/static/js/main.b2166684.js",
+    "static/media/gliderGif.gif": "/LifelikeCellularAutomata/static/media/gliderGif.e2e95db49deee1f198e9.gif",
+    "index.html": "/LifelikeCellularAutomata/index.html",
+    "main.6d6d6b49.css.map": "/LifelikeCellularAutomata/static/css/main.6d6d6b49.css.map",
+    "main.b2166684.js.map": "/LifelikeCellularAutomata/static/js/main.b2166684.js.map"
   },
   "entrypoints": [
     "static/css/main.6d6d6b49.css",
-    "static/js/main.58ba2317.js"
+    "static/js/main.b2166684.js"
   ]
 }
