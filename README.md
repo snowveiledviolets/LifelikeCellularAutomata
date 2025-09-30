@@ -5,7 +5,7 @@ Interactive Life-like Cellular Automata using JavaScript, React, and p5.js
 
 Visit my site below:
 
-https://wrenzepi.github.io/Lifelike-Cellular-Automata/
+https://snowveiledviolets.github.io/Lifelike-Cellular-Automata/
 
 ## Authors
 
