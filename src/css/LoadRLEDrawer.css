@@ -1,0 +1,18 @@
+.drawer-container {
+  margin: 10px 20px 70px 20px;
+}
+
+.load-file-button {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.error-text {
+  padding-top: 20px;
+  font-weight: 600;
+}
+
+.MuiPaper-root {
+  min-width: 400px !important;
+}

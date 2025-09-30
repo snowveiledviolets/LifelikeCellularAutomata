@@ -1,0 +1,32 @@
+.load-page-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 50px;
+  flex-shrink: 0;
+}
+
+.load-drawer-container {
+  padding-right: 10px;
+}
+
+.customization-container {
+  padding-right: 10px;
+}
+
+.playback-container {
+  margin: 20px 0px 80px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.playback-button {
+  padding-right: 10px;
+}
+
+.border-switch {
+  padding-left: 10px;
+  padding-top: 5px;
+}
