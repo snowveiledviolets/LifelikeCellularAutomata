@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Lifelike-Cellular-Automata/static/css/main.6d6d6b49.css",
+    "main.js": "/Lifelike-Cellular-Automata/static/js/main.eab815da.js",
+    "static/media/gliderGif.gif": "/Lifelike-Cellular-Automata/static/media/gliderGif.e2e95db49deee1f198e9.gif",
+    "index.html": "/Lifelike-Cellular-Automata/index.html",
+    "main.6d6d6b49.css.map": "/Lifelike-Cellular-Automata/static/css/main.6d6d6b49.css.map",
+    "main.eab815da.js.map": "/Lifelike-Cellular-Automata/static/js/main.eab815da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6d6b49.css",
+    "static/js/main.eab815da.js"
+  ]
+}
